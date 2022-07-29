@@ -1,1 +1,1 @@
-# Javascript_Particles
+# Javascript_Exercise
